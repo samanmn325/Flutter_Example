@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759813596451",
+    "project_id": "push-8a6d5",
+    "storage_bucket": "push-8a6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759813596451:android:1d22463ef14617eb84d896",
+        "android_client_info": {
+          "package_name": "com.epicteam171717.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759813596451-hrkt4ri4vc9s71814vr6pnqml8226euq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmesN5ECkMpIGFF9Cv7DP7_fhdbKBe5EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759813596451-hrkt4ri4vc9s71814vr6pnqml8226euq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

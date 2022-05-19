@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570551428244",
+    "project_id": "goldavang",
+    "storage_bucket": "goldavang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570551428244:android:5fa831e83d7ff6c4590081",
+        "android_client_info": {
+          "package_name": "com.customer171717.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570551428244-muslo6m9fod4b321pu9fmjrni28br004.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsX2dpDARF3DjNVJCBZfFsMRPgrW0dMGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570551428244-muslo6m9fod4b321pu9fmjrni28br004.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
